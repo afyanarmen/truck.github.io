@@ -1,0 +1,405 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+body{
+  background-color: #f8f8f8;
+  font-family: 'Fjalla';
+  font-weight: 300;
+  font-size: 16px;
+  color: #555;
+  -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scrolling: touch;
+
+}
+
+ h1, h2,h3,h4,h5,h6{
+
+   font-weight: 300;
+   color: #333;
+ }
+ p{
+   line-height: 28px;
+   margin-bottom: 10px;
+ }
+.centered{
+  text-align: center;
+}
+a {
+  color: #ff0000
+}
+a:hover, a:focus{
+  color: #000000;
+  text-decoration: none;
+  outline: 0;
+}
+hr{
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #f85c37;;
+  margin:1em 0;
+  padding: 0;
+}
+
+#navi0{
+  padding-top: 30px;
+
+}
+#navi0 a{
+  color: black;
+  font-weight: 400;
+  background-color: transparent;
+}
+#navi0 a:hover{
+  color: red;
+}
+
+#call{
+  margin-left: 500px;
+}
+#brand{
+    padding-top: 30px;
+}
+#navi a{
+  color: black;
+  font-weight: 400;
+  background-color: transparent;
+}
+#navi a:hover{
+  color: red;
+}
+
+
+
+#headerwrap{
+  background: url(../img/homebenner.jpg) no-repeat center top;
+  margin-top: -9px;
+  padding-top: 200px;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 500px;
+  width: 100%;
+  background-size: 100%;
+   color: #ff7878;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+}
+#headerwrap h1{
+  color: white;
+  font-size: 50px;
+  letter-spacing: 3px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+#wh{
+  background: url(../img/What.jpg) no-repeat center top;
+  margin-top: -9px;
+  padding-top: 150px;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 500px;
+  width: 100%;
+  background-size: 100%;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+}
+.w{
+  padding-top: 36px;
+
+}
+.w h4{
+  font-size: 20px;
+}
+#Advantage{
+  margin-top: -9px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  min-height: 400px;
+  width: 100%;
+  background-size: 100%;
+background-color: white;
+
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#vid{
+  background-color: #ededed;
+  margin-top: -9px;
+  padding-top: 70px;
+  min-height: 400px;
+  width: 100%;
+  background-size: 100%;
+
+
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#io{
+  background: url(../img/Our.jpg) no-repeat center top;
+  margin-top: -9px;
+  padding-top: 70px;
+  min-height: 400px;
+  width: 100%;
+  background-size: 100%;
+
+
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#oi img{
+  width: 190px;
+  height: 50px;
+  letter-spacing: 20px;
+  padding-bottom: 9px;
+}
+#Custome{
+  background: url(../img/Custome.jpg) no-repeat center top;
+  margin-top: 0px;
+  padding-top: 70px;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 500px;
+  width: 100%;
+  background-size: 100%;
+
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#red{
+  background-color: #E11E26;
+  margin-top: 0px;
+  padding-top: 5px;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 50px;
+  width: 100%;
+  background-size: 100%;
+  color: white;
+
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#blue{
+  background-color: #1F419B;
+  margin-top: 0px;
+  padding-top: 20px;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 250px;
+  width: 100%;
+  background-size: 100%;
+  color: white;
+
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#ln a{
+  color: white;
+
+}
+
+#bn{
+  margin-top: 3px;
+  padding-top: 20px;
+}
+#fh5co-services{
+  padding: 7em 0;
+  clear: both;
+    padding: 3em 0;
+    margin-top: -95px;
+      margin-bottom: -255px;
+
+}
+#fh5co-services a{
+  background-color: red;
+  border-color: red;
+  border-radius: 36px;
+}
+#sr{
+  width: 200px;
+}
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+.carousel {
+
+}
+
+.carousel-cell {
+  width: 70%;
+  height: 200px;
+  /* flex-box, center image in cell */
+  display: -webkit-box;
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+
+.carousel-cell img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  /* dim unselected */
+  opacity: 0.7;
+  -webkit-transform: scale(0.85);
+          transform: scale(0.85);
+  -webkit-filter: blur(5px);
+          filter: blur(5px);
+  -webkit-transition: opacity 0.3s, -webkit-transform 0.3s, transform 0.3s, -webkit-filter 0.3s, filter 0.3s;
+          transition: opacity 0.3s, transform 0.3s, filter 0.3s;
+}
+
+/* brighten selected image */
+.carousel-cell.is-selected img {
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-filter: none;
+          filter: none;
+}
+
+@media screen and ( min-width: 768px ) {
+  .carousel-cell {
+    height: 400px;
+  }
+}
+
+@media screen and ( min-width: 960px ) {
+  .carousel-cell {
+    width: 60%;
+  }
+}
+
+/* buttons, no circle */
+.flickity-prev-next-button {
+  width: 60px;
+  height: 60px;
+  background-color: red;
+
+  border-radius: 36px;
+  letter-spacing:  36px;
+}
+
+/* arrow color */
+.flickity-prev-next-button .arrow {
+  fill: white;
+}
+.flickity-prev-next-button.no-svg {
+  color: white;
+}
+/* closer to edge */
+.flickity-prev-next-button.previous { left: 0; }
+.flickity-prev-next-button.next { right: 0; }
+/* hide disabled button */
+.flickity-prev-next-button:disabled {
+  display: none;
+}
+
+#c h3{
+  margin-left: 130px;
+
+}
+#c a{
+  margin-left: 10px;
+
+}
+#bg{
+  background: url(../img/Section-1.jpg );
+  height: 150px;
+    width: 563px;
+    background-attachment: relative;
+    b
+
+    width: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#bg2{
+  background: url(../img/Section-2.jpg );
+  height: 150px;
+    width: 563px;
+    background-attachment: relative;
+    margin-bottom: 90px;
+
+    width: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#bc{
+  background-color: #b0db55;
+  border-radius: 36px;
+  border: transparent;
+}
+
+#line{
+  background: transparent;
+  color: white;
+  border-color: white;
+  border-radius: 36px;
+
+}
+#line2{
+  background: transparent;
+  color: white;
+  border-color: white;
+
+border: none;
+   border-bottom: 2px solid #cdd2d8;
+   width: 600px;
+ }
+
+#lef{
+  display: flex;
+   justify-content:flex-end;
+
+
+}
+#cop{
+  display: flex;
+   justify-content:center;
+
+   padding-top: 90px;
+   opacity: 0.6;
+}
+#search{
+  border-radius: 36px;
+}
